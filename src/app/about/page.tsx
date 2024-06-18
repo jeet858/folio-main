@@ -18,7 +18,7 @@ const About: NextPage = () => {
                     I am Jeet Majumder <span>Your Expertise</span>
                   </h2>
                   <p>
-                    Hi! My name is Your Name. As a passionate and ambitious
+                    Hi! My name is Jeet Majumder. As a passionate and ambitious
                     software developer with a diverse skill set,I bring a strong
                     foundation in programming languages and frameworks such as
                     Flutter and React.I am eager to apply my knowledge and
