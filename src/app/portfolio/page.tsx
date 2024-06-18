@@ -41,6 +41,9 @@ const Portfolio: NextPage = () => {
                 </div>
                 <div className="portfolio-info">
                   <h4>Crimson Paints</h4>
+                  <p style={{ color: "white" }}>
+                    A inventory management system
+                  </p>
                   <div className="icon">
                     <a href="https://crimson-paints858.vercel.app">
                       <i className="fa fa-search" />
@@ -57,7 +60,11 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/2.png" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Crimson Paints</h4>
+                  <h4>Prescription Generate</h4>
+                  <p style={{ color: "white" }}>
+                    A system to generate prescriptions online and organize
+                    patients data
+                  </p>
                   <div className="icon">
                     <a href="https://prescriptiongenerate.vercel.app/">
                       <i className="fa fa-search" />
@@ -75,6 +82,9 @@ const Portfolio: NextPage = () => {
                 </div>
                 <div className="portfolio-info">
                   <h4>CSIWB</h4>
+                  <p style={{ color: "white" }}>
+                    A website for Cardiological Society of India, West Bengal
+                  </p>
                   <div className="icon">
                     <a href="https://csiwb.vercel.app/">
                       <i className="fa fa-search" />
@@ -92,6 +102,9 @@ const Portfolio: NextPage = () => {
                 </div>
                 <div className="portfolio-info">
                   <h4>Proiq Academy</h4>
+                  <p style={{ color: "white" }}>
+                    A website for a childrens academy called Proiq Academy
+                  </p>
                   <div className="icon">
                     <a href="https://proiqacademy.in/">
                       <i className="fa fa-search" />
