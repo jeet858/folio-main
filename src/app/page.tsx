@@ -1,3 +1,4 @@
+import { IoMailOutline, IoMailSharp } from "react-icons/io5";
 export default async function Home() {
   return (
     <main>
@@ -14,9 +15,11 @@ export default async function Home() {
             <div className="social-links">
               {/* <a href="https://twitter.com/" target="_blank">
                 <i className="fa fa-twitter" />
-              </a>
-              <a href="https://facebook.com/" target="_blank">
-                <i className="fa fa-facebook" />
+              </a> */}
+              {/* <a href="https://facebook.com/" target="_blank">
+                <i className="io5 io5-mailSharp">
+                  <IoMailSharp />
+                </i>
               </a> */}
               <a href="https://github.com/jeet858" target="_blank">
                 <i className="fa fa-github" />
