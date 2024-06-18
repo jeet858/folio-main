@@ -40,7 +40,7 @@ const Contact: NextPage = () => {
             {/* contact-info-item Ended */}
           </div>
           {/* Contact Form */}
-          <div className="row">
+          {/* <div className="row">
             <form className="contact-form padd-15">
               <div className="row">
                 <div className="form-item col-6 padd-15">
@@ -92,7 +92,7 @@ const Contact: NextPage = () => {
                 </div>
               </div>
             </form>
-          </div>
+          </div> */}
           {/* Contact Form Ended */}
         </div>
       </section>
